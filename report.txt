@@ -1,0 +1,2 @@
+User failed.
+User answered 0 questions correctly. Score is 0.0%.
